@@ -14,4 +14,8 @@
 
 **Thoughts:** I've been thinking of taking a look at some Computer Science books. I want a deeper understanding of the theoretical so I can improve my practical skills.
 
+### Day 3: 05 January 2016
 
+**Today's Progress:** A little more work on FCC, up to bootstrap now. I've also done some wireframing work on my personal project. 
+
+**Thoughts:** I had doubts as to whether or not wireframing was a waste of time. I think I underestimated it's usefulness. I'll probably be doing a little more of it from now on.
