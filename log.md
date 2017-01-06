@@ -19,3 +19,13 @@
 **Today's Progress:** A little more work on FCC, up to bootstrap now. I've also done some wireframing work on my personal project. 
 
 **Thoughts:** I had doubts as to whether or not wireframing was a waste of time. I think I underestimated it's usefulness. I'll probably be doing a little more of it from now on.
+
+**Link to work:** https://github.com/Systole19/Profile-Site
+
+### Day 4: 06 January 2016
+
+**Today's Progress:** Worked on personal website for a while.
+
+**Thoughts:** Personal website is evolving rapidly. I'm quickly learning what to do and what not to do.
+
+**Link to work:** https://github.com/Systole19/Profile-Site
