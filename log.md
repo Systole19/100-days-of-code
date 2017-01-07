@@ -29,3 +29,11 @@
 **Thoughts:** Personal website is evolving rapidly. I'm quickly learning what to do and what not to do.
 
 **Link to work:** https://github.com/Systole19/Profile-Site
+
+### Day 4: 07 January 2016
+
+**Today's Progress:** Worked on personal website for a very long while
+
+**Thoughts:** I'm finding my place and the aesthetics I enjoy. Working on a project on your own without a tutorial is so important to find out what you enjoy doing.
+
+**Link to work:** https://github.com/Systole19/Profile-Site
