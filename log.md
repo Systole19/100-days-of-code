@@ -37,3 +37,11 @@
 **Thoughts:** I'm finding my place and the aesthetics I enjoy. Working on a project on your own without a tutorial is so important to find out what you enjoy doing.
 
 **Link to work:** https://github.com/Systole19/Profile-Site
+
+### Day 4: 09 January 2016
+
+**Today's Progress:** Finished my personal project. I'm fairly happy with the result.
+
+**Thoughts:** I've learned a lot throughout my first project. The value of divs and small tricks you can use to position elements. Next i think I will try another web page project using Flexbox.
+
+**Link to work:** https://github.com/Systole19/Profile-Site
