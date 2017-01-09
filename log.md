@@ -30,7 +30,7 @@
 
 **Link to work:** https://github.com/Systole19/Profile-Site
 
-### Day 4: 07 January 2016
+### Day 5: 07 January 2016
 
 **Today's Progress:** Worked on personal website for a very long while
 
@@ -38,7 +38,7 @@
 
 **Link to work:** https://github.com/Systole19/Profile-Site
 
-### Day 4: 09 January 2016
+### Day 6: 09 January 2016
 
 **Today's Progress:** Finished my personal project. I'm fairly happy with the result.
 
