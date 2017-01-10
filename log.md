@@ -45,3 +45,11 @@
 **Thoughts:** I've learned a lot throughout my first project. The value of divs and small tricks you can use to position elements. Next i think I will try another web page project using Flexbox.
 
 **Link to work:** https://github.com/Systole19/Profile-Site
+
+### Day 7: 10 January 2016
+
+**Today's Progress:** Look into the Flexbox layout model, learning all the new syntax for my new project. Something along the lines of a Flexbox tutorial!
+
+**Thoughts:** I'm approaching this better than i approached the first. A lot of research is being done but I'm always testing what I've learned. Engaging with your learning is the best way to learn.
+
+**Link to work:** https://twitter.com/DOBVirtual/status/818842375631929345
