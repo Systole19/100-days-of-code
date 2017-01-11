@@ -53,3 +53,11 @@
 **Thoughts:** I'm approaching this better than i approached the first. A lot of research is being done but I'm always testing what I've learned. Engaging with your learning is the best way to learn.
 
 **Link to work:** https://twitter.com/DOBVirtual/status/818842375631929345
+
+### Day 8: 11 January 2016
+
+**Today's Progress:**Began my AsimplyNovelTime c# project. Just a little project I can see myself using in my own daily life.
+
+**Thoughts:** I think this will be my most difficult project yet. But it's also the most I'm having the most fun with.
+
+**Link to work:** https://github.com/Systole19/AsimplyNovelTime
